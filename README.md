@@ -1,6 +1,6 @@
-# Expense Management System
+# Expense Tracking System
 
-A full-stack expense management system built with **Streamlit (frontend)** and **FastAPI (backend)** to help users track, manage, and analyze their daily expenses efficiently.
+A full-stack expense tracking system built with **Streamlit (frontend)** and **FastAPI (backend)** to help users track, manage, and analyze their daily expenses efficiently.
 
 ---
 
@@ -53,8 +53,8 @@ expense-management-system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/expense-management-system
-cd expense-management-system
+git clone https://github.com/adekoya759/Expense-Tracking-System.git
+cd Expense-Tracking-System
 ```
 
 ### 2. Install dependencies
